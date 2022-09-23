@@ -1,0 +1,26 @@
+.example-spacer {
+flex: 1 1 auto;
+}
+.home-icon{
+margin-right: 10px;
+padding-bottom: 2px;
+}
+
+/* .log-icon{
+    margin-top: 10px;
+} */
+
+.example-spacer-2{
+    padding: 10px;
+}
+
+.adjust-width{
+    height: auto;
+    font-size: medium;
+}
+button{
+    border-radius: 7px;
+}
+mat-toolbar{
+    background-color: rgba(9, 143, 221, 0.534);
+}

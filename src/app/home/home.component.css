@@ -1,0 +1,48 @@
+.row{
+    max-height: 80%;
+}
+.card-image{
+    margin-bottom: 10px;
+    height: 50%;
+    background-size:cover;
+}
+/* .login-card{
+    height: 80%;
+} */
+.card-img-top{
+    height: 100%;
+}
+.overlay{
+    height: 63%;
+}
+.card-contetnt{
+    color:rgb(0, 0, 0);
+    padding: auto;
+    margin: auto;
+    font-size: large;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.card-title{
+    font-size: x-large;
+
+}
+.card-2{
+    color:rgb(0, 0, 0);
+    text-align: right;
+    width: 50%; 
+    float: right;
+    margin-right: 10px;
+    font-weight: bold;
+}
+.card-1{
+    color:rgb(0, 0, 0);
+    text-align: left;
+    width: 50%; 
+    float: left;
+    margin-left: 10px;
+    font-weight: bold;
+}
+/* .highlighted{
+    background-color: rgb(238, 130, 238,0.5) ;
+} */
